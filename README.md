@@ -1,8 +1,13 @@
 Name: DIPALI BHANDARE
+
 Company:CODTECH IT SOLUTIONS PVT.LTD
+
 ID:CT08DS4921
+
 Domain:UI/UX Design
+
 Duration:15 July to 15 aug 2024
+
 Monitor:NEELA SANTHOSH KUMAR
 
 Overview of the Project
